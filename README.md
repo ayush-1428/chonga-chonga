@@ -1,7 +1,3 @@
 # chonga-chonga
 # chonga-chonga
-
-
-hello
-
-mogna monga
+monga-monga-v2
